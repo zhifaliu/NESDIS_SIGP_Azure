@@ -151,7 +151,7 @@
     
     "mastervmScripts": {
       "scriptsToDownload": [
-        "https://raw.githubusercontent.com/zhifaliu/NESDIS_IAAS/master/setup.sh"
+        "https://github.com/zhifaliu/NESDIS_SIGP_Azure/blob/master/setup.sh"
       ],
       "commandToExecute": "bash setup.sh"
     }
